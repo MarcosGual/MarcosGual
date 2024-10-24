@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 <h3 align="center">A dedicated fullstack developer from Argentina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcosgual" alt="marcosgual" /></a> </p>
+[comment]: <>(<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcosgual" alt="marcosgual" /></a> </p>)
 
 - 👨‍💻 All of my projects are available at [https://marcosgual.github.io/](https://marcosgual.github.io/)
 
