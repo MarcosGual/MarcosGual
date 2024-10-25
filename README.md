@@ -43,5 +43,8 @@
   <img src="https://streak-stats.demolab.com?user=MarcosGual&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/8d/90/8a/8d908ae4bb456d5e864b5346affe6070.gif" height="300" alt="goku vs vegeta" />
+</div>
 ###
 ###
