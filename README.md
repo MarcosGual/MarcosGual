@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marcos</h1>
+<h1 align="center">Hi 😄, I'm Marcos</h1>
 <h3 align="center">A dedicated fullstack developer from Argentina</h3>
 
 - 👨‍💻 All of my projects are available at [https://marcosgual.github.io/](https://marcosgual.github.io/)
