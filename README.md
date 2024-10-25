@@ -1,7 +1,9 @@
-![tumblr_nmv5teCnag1r1rrxzo1_540](https://github.com/user-attachments/assets/933ac489-5fa8-40a0-a575-42f3ff550f63)<h1 align="center">Hi 😄, I'm Marcos</h1>
+<h1 align="center">Hi 😄, I'm Marcos</h1>
 <h3 align="center">A dedicated fullstack developer from Argentina</h3>
-
 ###
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/933ac489-5fa8-40a0-a575-42f3ff550f63" alt="donkey kong" height=300 />
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
