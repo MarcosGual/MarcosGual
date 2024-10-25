@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8d/90/8a/8d908ae4bb456d5e864b5346affe6070.gif" height="300" alt="goku vs vegeta" />
+  <img src="https://github.com/user-attachments/assets/92705070-42a1-4216-90d3-2dcc28b8e5a0" height="300" alt="goku vs vegeta" />
 </div>
 
 ###
