@@ -30,13 +30,13 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarcosGual.MarcosGual&"  />
+  <img src="https://github.com/user-attachments/assets/159a51c6-908e-44dc-804b-53887c0de8df" height="100" alt="zelda" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/159a51c6-908e-44dc-804b-53887c0de8df" height="100" alt="zelda" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarcosGual.MarcosGual&"  />
 </div>
 
 ###
