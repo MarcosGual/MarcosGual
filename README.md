@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **marcos.gual@outlook.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/c/390b691be3c1712a/EYWO-diSiDNOi2cTAY9-qBwBTw8sLP4CYrPZOkg9We5Ygw](https://1drv.ms/b/c/390b691be3c1712a/EYWO-diSiDNOi2cTAY9-qBwBTw8sLP4CYrPZOkg9We5Ygw)
+- 📄 Know about my experiences [Curriculum Vitae - CV](https://tinyurl.com/marcosgual)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
