@@ -46,9 +46,11 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/8d/90/8a/8d908ae4bb456d5e864b5346affe6070.gif" height="300" alt="goku vs vegeta" />
 </div>
-###
+
 ###
 
-<div align="center">
-  <img src="https://media.tenor.com/qf4HrRXjfqgAAAAi/dragon-ball-dragon-ball-super.gif" height="300" alt="vegeta laughing" />
+<div>
+  <img src="https://media.tenor.com/qf4HrRXjfqgAAAAi/dragon-ball-dragon-ball-super.gif" height="200" alt="vegeta laughing" />
 </div>
+
+###
