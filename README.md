@@ -1,4 +1,4 @@
-![tumblr_mt0wfwLWt31rby4vso1_500](https://github.com/user-attachments/assets/159a51c6-908e-44dc-804b-53887c0de8df)<h1 align="center">Hi 😄, I'm Marcos</h1>
+<h1 align="center">Hi 😄, I'm Marcos</h1>
 <h3 align="center">A dedicated fullstack developer from Argentina</h3>
 
 <div align="center">
@@ -36,7 +36,7 @@
 ###
 
 <div>
-  <img src="https://64.media.tumblr.com/788b9fc7545f4b1631b24283da40b971/tumblr_mt0wfwLWt31rby4vso1_500.gif" height="100" alt="zelda" />
+  <img src="https://github.com/user-attachments/assets/159a51c6-908e-44dc-804b-53887c0de8df" height="100" alt="zelda" />
 </div>
 
 ###
