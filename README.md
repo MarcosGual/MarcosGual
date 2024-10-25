@@ -1,8 +1,8 @@
 <h1 align="center">Hi 😄, I'm Marcos</h1>
 <h3 align="center">A dedicated fullstack developer from Argentina</h3>
-###
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/933ac489-5fa8-40a0-a575-42f3ff550f63" alt="donkey kong" height=300 />
+  <img src="https://github.com/user-attachments/assets/933ac489-5fa8-40a0-a575-42f3ff550f63" alt="donkey kong" height=200 />
 </div>
 
 <div align="center">
@@ -52,8 +52,7 @@
 ###
 
 <div>
-  <img src="https://64.media.tumblr.com/56f4ed8b8c40eb96935bb80d6209145c/tumblr_nmv5teCnag1r1rrxzo1_540.gif" height="200" alt="donkey kong" />
-  <img src="https://static.wikia.nocookie.net/donkeykong/images/4/47/Dixie_rambi_and_klobble.gif/revision/latest/scale-to-width-down/250?cb=20210429024957" height="200" alt="rinocerosrunning" />
+  <img src="https://static.wikia.nocookie.net/donkeykong/images/4/47/Dixie_rambi_and_klobble.gif/revision/latest/scale-to-width-down/250?cb=20210429024957" height="100" alt="rinocerosrunning" />
 </div>
 
 ###
