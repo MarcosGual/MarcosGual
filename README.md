@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **marcos.gual@outlook.com**
 
-- 📄 Know about my experiences [curriculum vitae - cv](https://tinyurl.com/marcosgual)
+<!--- 📄 Know about my experiences [curriculum vitae - cv](https://tinyurl.com/marcosgual)-->
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
