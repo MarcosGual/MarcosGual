@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://marcosgual.github.io/](https://marcosgual.github.io/)
 
-- 💬 Ask me about **react, angular, .net, c#**
+- 💬 Ask me about **react, angular, .net, node, express**
 
 - 📫 How to reach me **marcos.gual@outlook.com**
 
