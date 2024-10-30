@@ -13,7 +13,7 @@
 
 ###
 
-- 🇦🇷 I'm from Argentina
+-  🇦🇷 I'm from Argentina
 
 - 👨‍💻 All of my projects are available at [https://marcosgual.github.io/](https://marcosgual.github.io/)
 
