@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😄, I'm Marcos</h1>
-<h3 align="center">A fullstack developer from Argentina</h3>
+<h3 align="center">A dedicated fullstack developer</h3>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/933ac489-5fa8-40a0-a575-42f3ff550f63" alt="donkey kong" height=200 />
@@ -12,6 +12,8 @@
 </div>
 
 ###
+
+- 🇦🇷 I'm from Argentina
 
 - 👨‍💻 All of my projects are available at [https://marcosgual.github.io/](https://marcosgual.github.io/)
 
