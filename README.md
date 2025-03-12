@@ -52,6 +52,10 @@
 </div>
 
 <div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosGual" alt="Top Languaguages" />
+</div>
+
+<div align="center">
   <img src="https://github.com/user-attachments/assets/d830ee77-4150-4823-a60f-76043945da97" title="(best ssj transformation)" height="300" alt="goku vs vegeta" />
 </div>
 
