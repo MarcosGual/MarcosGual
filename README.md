@@ -51,8 +51,10 @@
  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MarcosGual&theme=dark" alt="GitHub Streak" />
 </div>
 
+###
+
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosGual&show_icons=true&theme=dark)" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosGual&show_icons=true&theme=transparent)" alt="Top Languages" />
 </div>
 
 <div align="center">
