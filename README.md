@@ -48,7 +48,7 @@
 ###
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=MarcosGual&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MarcosGual" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
