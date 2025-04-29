@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://marcosgual.github.io/](https://marcosgual.github.io/)
 
-- 💬 Ask me about **react, angular, next, .net, node, express, postgresql, mysql, mongodb**
+- 💬 Ask me about **react, angular, next, .net, node, express, postgresql, mongodb**
 
 - 📫 How to reach me **marcos.gual@outlook.com**
 
